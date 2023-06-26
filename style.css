@@ -1,5 +1,5 @@
 body{
-    background-color: #759FBC;
+    background-color: #bffabf;
 }
 
 
@@ -19,7 +19,7 @@ body{
     margin: auto;
     padding: 25px;
     text-align: center;
-    background:#1F5673;
+    background:#1f733f;
     border-radius: 15px;
     display: flex;
     justify-content: center;
@@ -28,13 +28,18 @@ body{
 }
 
 .counter h1{
-    color: #B9B8D3;
+    color: #d9dad9;
     font-size: 2rem;
 }
 
 #count{
     font-size: 7rem;
 }
+
+.btn-outline-secondary{
+    color: #B9B8D3;
+}
+
 
 .btn-outline-secondary{
     color: #B9B8D3;
